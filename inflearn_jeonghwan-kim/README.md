@@ -1,5 +1,6 @@
 # 김정환 : 프론트엔드 개발환경의 이해와 실습
 [블로그 강의안](https://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
+.
 
 [1. 섹션](#1-섹션-npm)
 <br/>[2. 웹팩](#2-웹팩이-필요한-이유와-기본-동작)
